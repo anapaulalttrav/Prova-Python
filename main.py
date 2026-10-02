@@ -1,5 +1,6 @@
 from criar_projeto import criar_estrutura
 from auditor import executar_auditoria
+# aqui é onde eu executo
 
 
 def main():
