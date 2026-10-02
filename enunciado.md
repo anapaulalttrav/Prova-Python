@@ -1,0 +1,192 @@
+# Atividade prática – Manutenção de um auditor de diretórios
+
+A atividade poderá ser realizada **individualmente ou em grupos de até 3 integrantes**.
+
+Uma equipe de desenvolvimento criou um sistema em Python para realizar a auditoria da estrutura de arquivos de um projeto. Após diferentes alterações e manutenções realizadas ao longo do desenvolvimento, o sistema deixou de apresentar resultados confiáveis.
+
+Sua equipe recebeu a versão atual desse sistema e deverá investigar e corrigir seu funcionamento.
+
+## 1. Preparação da atividade
+
+Antes de iniciar, crie uma **pasta vazia** em seu computador destinada exclusivamente a esta atividade.
+
+Coloque os arquivos fornecidos pelo professor dentro dessa pasta.
+
+**Não execute o projeto dentro de pastas que contenham documentos pessoais, trabalhos, downloads ou outros arquivos que não façam parte desta atividade.**
+
+O sistema realizará operações envolvendo diretórios e arquivos. Por esse motivo, deverá permanecer isolado em uma pasta própria.
+
+O sistema deverá ser iniciado pelo arquivo:
+
+```text
+main.py
+```
+
+O `main.py` realizará uma chamada para outro módulo responsável pela criação da estrutura de diretórios e dos arquivos utilizados na atividade.
+
+O arquivo responsável por gerar essa estrutura **não deverá ser alterado**. Sua função é garantir que todos os grupos trabalhem inicialmente com a mesma estrutura.
+
+Após a preparação, o programa continuará sua execução e iniciará o processo de auditoria.
+
+---
+
+## 2. Estrutura do projeto
+
+Durante sua execução, o sistema trabalhará com uma estrutura semelhante a:
+
+```text
+projeto/
+│
+├── main.py
+├── criar_projeto.py
+├── auditor.py
+├── verificador.py
+│
+├── controllers/
+├── models/
+├── config/
+├── utils/
+├── docs/
+├── tests/
+├── temp/
+└── logs/
+```
+
+As pastas poderão conter arquivos e outras subpastas.
+
+Cada pasta contém um arquivo chamado `doc.txt`.
+
+Esses arquivos apresentam pequenas explicações pedagógicas sobre a finalidade que aquele diretório poderia assumir em um projeto real ou, quando for o caso, informam que determinada estrutura foi criada especificamente para esta atividade.
+
+**Leia os arquivos `doc.txt` durante a exploração do projeto.**
+
+As explicações possuem finalidade didática. Projetos reais podem utilizar estruturas, nomes e formas de organização diferentes.
+
+---
+
+## 3. Funcionamento esperado
+
+O sistema deverá analisar toda a estrutura do projeto, considerando os arquivos existentes nas diferentes pastas e subpastas.
+
+Ao final da execução, deverá:
+
+- percorrer a estrutura de diretórios;
+- contabilizar corretamente os arquivos encontrados;
+- calcular o tamanho total dos arquivos analisados;
+- identificar o maior arquivo encontrado;
+- informar o tamanho desse arquivo;
+- informar o caminho correspondente ao maior arquivo;
+- gerar um relatório com os resultados da auditoria;
+- registrar em log as principais etapas da execução e eventuais problemas encontrados.
+
+Os arquivos produzidos pelo próprio processo de auditoria não deverão alterar os resultados das próximas execuções.
+
+**A execução do programa sem apresentar uma exceção não significa necessariamente que os resultados estejam corretos.**
+
+Analise também os valores e caminhos apresentados pelo sistema.
+
+---
+
+## 4. Manutenção do código legado
+
+Não será fornecida uma relação dos problemas existentes no código nem a quantidade de correções necessárias.
+
+Durante a investigação, poderão ser utilizados:
+
+- resultados apresentados no terminal;
+- arquivo de log;
+- verificações existentes no próprio código;
+- debugger;
+- diferentes execuções do sistema;
+- leitura e interpretação do código-fonte;
+- comentários existentes no projeto;
+- docstrings das funções.
+
+Os comentários fazem parte do histórico de desenvolvimento do projeto. Eles podem registrar decisões anteriores, hipóteses, tentativas, dúvidas e observações de outros desenvolvedores.
+
+Portanto, **um comentário não deve ser considerado automaticamente uma descrição correta do funcionamento atual do sistema**.
+
+Não remova verificações simplesmente para impedir que uma mensagem de erro seja apresentada. Quando uma verificação falhar, investigue sua causa.
+
+A atividade consiste na **manutenção do sistema fornecido**. Não substitua integralmente o projeto por uma nova implementação.
+
+---
+
+## 5. Consultando as funções
+
+As funções existentes no projeto possuem **docstrings** que podem auxiliar na compreensão de suas responsabilidades.
+
+A documentação de uma função pode ser consultada utilizando `help()`.
+
+Por exemplo:
+
+```python
+help(analisar_diretorios)
+```
+
+Também é possível utilizar `help()` para consultar funções e recursos do próprio Python utilizados no projeto.
+
+As docstrings e os comentários devem auxiliar na investigação, mas não substituem a análise da execução e do comportamento real do programa.
+
+---
+
+## 6. Validação
+
+Após realizar as correções, execute:
+
+```text
+python verificador.py
+```
+
+O verificador avaliará requisitos do sistema e indicará quais comportamentos estão corretos e quais ainda precisam de revisão.
+
+Ele não indicará onde o problema está localizado nem apresentará sua solução.
+
+A manutenção estará concluída quando o comportamento do projeto estiver de acordo com os requisitos especificados nesta atividade.
+
+### Atenção à estrutura
+
+Durante a atividade, concentre suas alterações no código que precisa ser corrigido.
+
+Não reorganize a estrutura de arquivos e diretórios fornecida.
+
+Não:
+
+- renomeie arquivos ou pastas;
+- mova arquivos para outros diretórios;
+- exclua arquivos da estrutura;
+- altere a organização criada pelo gerador.
+
+O verificador considera a organização esperada do projeto.
+
+Mover, renomear ou excluir arquivos e pastas poderá fazer com que o verificador indique problemas causados apenas pela alteração indevida da estrutura.
+
+---
+
+# 7. Entrega e correção da atividade
+
+A entrega será realizada **durante a correção com o professor**.
+
+No momento da correção, o grupo deverá apresentar **a pasta completa da atividade**, contendo toda a estrutura gerada e o código com as modificações realizadas.
+
+A pasta deverá estar disponível no computador e **já aberta no ambiente utilizado para programação**, pronta para execução e visualização do código.
+
+Durante a correção, o grupo deverá:
+
+- apresentar sua versão final do projeto;
+- executar o `main.py`;
+- executar o `verificador.py` quando solicitado;
+- apresentar os arquivos de código modificados;
+- demonstrar o funcionamento do sistema.
+
+**A versão apresentada durante a correção será considerada a versão entregue da atividade.**
+
+Antes da correção, verifique se:
+
+- todos os arquivos e pastas originais continuam em seus respectivos locais;
+- nenhum arquivo ou diretório foi renomeado, movido ou excluído;
+- o código contém todas as correções realizadas pelo grupo;
+- o projeto continua sendo iniciado pelo `main.py`;
+- o `verificador.py` permanece no local originalmente fornecido.
+
+Não será necessário preparar uma entrega separada. **A própria pasta apresentada, executada e demonstrada ao professor será considerada a entrega do grupo.**
