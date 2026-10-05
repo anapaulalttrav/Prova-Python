@@ -1,6 +1,6 @@
 import os
 import logging
-#sou lindo
+
 
 NOME_RELATORIO = "relatorio.txt"
 NOME_LOG = "auditoria.log"

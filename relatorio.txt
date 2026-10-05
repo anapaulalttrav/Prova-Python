@@ -5,3 +5,24 @@ Tamanho total: 41045 bytes
 Maior arquivo: .gitattributes
 Tamanho do maior arquivo: 66 bytes
 ==================================================
+RELATÓRIO DE AUDITORIA
+==================================================
+Quantidade de arquivos: 18
+Tamanho total: 82627 bytes
+Maior arquivo: .gitattributes
+Tamanho do maior arquivo: 66 bytes
+==================================================
+RELATÓRIO DE AUDITORIA
+==================================================
+Quantidade de arquivos: 9
+Tamanho total: 42111 bytes
+Maior arquivo: .gitattributes
+Tamanho do maior arquivo: 66 bytes
+==================================================
+RELATÓRIO DE AUDITORIA
+==================================================
+Quantidade de arquivos: 9
+Tamanho total: 42698 bytes
+Maior arquivo: .gitattributes
+Tamanho do maior arquivo: 66 bytes
+==================================================
