@@ -1,28 +1,7 @@
 RELATÓRIO DE AUDITORIA
 ==================================================
-Quantidade de arquivos: 9
-Tamanho total: 41045 bytes
-Maior arquivo: .gitattributes
-Tamanho do maior arquivo: 66 bytes
-==================================================
-RELATÓRIO DE AUDITORIA
-==================================================
-Quantidade de arquivos: 18
-Tamanho total: 82627 bytes
-Maior arquivo: .gitattributes
-Tamanho do maior arquivo: 66 bytes
-==================================================
-RELATÓRIO DE AUDITORIA
-==================================================
-Quantidade de arquivos: 9
-Tamanho total: 42111 bytes
-Maior arquivo: .gitattributes
-Tamanho do maior arquivo: 66 bytes
-==================================================
-RELATÓRIO DE AUDITORIA
-==================================================
-Quantidade de arquivos: 9
-Tamanho total: 42698 bytes
-Maior arquivo: .gitattributes
-Tamanho do maior arquivo: 66 bytes
+Quantidade de arquivos: 153
+Tamanho total: 1637187 bytes
+Maior arquivo: C:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias\exemplos\base_referencia.dat
+Tamanho do maior arquivo: 819200 bytes
 ==================================================

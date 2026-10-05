@@ -8,7 +8,7 @@ NOME_LOG = "auditoria.log"
 PASTA_PROJETO = os.getcwd()
 
 # TODO: verificar se este caminho ainda corresponde à estrutura atual.
-PASTA_LOGS = os.path.join(PASTA_PROJETO, "log")
+PASTA_LOGS = os.path.join(PASTA_PROJETO, "logs") #logs é a pasta que vai armazenar os logs, que foi mencionado em aula
 
 CAMINHO_LOG = os.path.join(
     PASTA_LOGS,
@@ -30,8 +30,7 @@ def preparar_ambiente():
 
     # Previous implementation failed when the directory
     # already existed. This condition was added afterwards.
-    if os.path.exists(PASTA_LOGS):
-        os.mkdir(PASTA_LOGS)
+    os.makedirs(PASTA_LOGS, exist_ok=True)  #criamos a estrutura do pasta logs, que foi mencionado em aula
 
     print("Ambiente preparado.")
 
@@ -42,7 +41,7 @@ def configurar_log():
     """
 
     logging.basicConfig(
-        filename='CAMINHO_LOG',
+        filename=CAMINHO_LOG,
         level=logging.INFO,
         format="%(asctime)s - %(levelname)s - %(message)s"
     )
@@ -140,6 +139,13 @@ def analisar_diretorios():
             )
 
             tamanho_total += tamanho
+          
+
+        #  CÓDIGO PARA ACHAR O MAIOR, (pensando na lógica do maior arquivo que o prof passou em aula, A quantidade processada não pode ser superior o total)
+            if tamanho > maior_tamanho:
+                maior_tamanho = tamanho
+                maior_arquivo = caminho_completo
+        # --------------------------------------
 
             # TODO: Confirm whether comparing the file name here
             # still represents the intended rule.
@@ -150,7 +156,7 @@ def analisar_diretorios():
 
         # Solução temporária adicionada durante um teste.
         # Verificar se ainda é necessária.
-        break
+        
 
     logging.info(
         "Análise dos diretórios finalizada."
@@ -204,7 +210,7 @@ def gerar_relatorio(
     # Alterado anteriormente para preservar relatórios antigos.
     with open(
         CAMINHO_RELATORIO,
-        "a",
+        "w",
         encoding="utf-8"
     ) as arquivo:
 
@@ -311,6 +317,4 @@ def executar_auditoria():
 
         # This message was simplified because previous logs
         # contained too much technical information.
-        logging.error(
-            "Erro durante a execução."
-        )
+        logging.error(f"Erro durante a execução: {erro}")
