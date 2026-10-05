@@ -1,0 +1,7 @@
+RELATÓRIO DE AUDITORIA
+==================================================
+Quantidade de arquivos: 9
+Tamanho total: 41045 bytes
+Maior arquivo: .gitattributes
+Tamanho do maior arquivo: 66 bytes
+==================================================
