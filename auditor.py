@@ -42,7 +42,7 @@ def configurar_log():
     """
 
     logging.basicConfig(
-        filename=CAMINHO_LOG,
+        filename='CAMINHO_LOG',
         level=logging.INFO,
         format="%(asctime)s - %(levelname)s - %(message)s"
     )
