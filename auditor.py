@@ -1,6 +1,6 @@
 import os
 import logging
-#va a merda
+
 
 NOME_RELATORIO = "relatorio.txt"
 NOME_LOG = "auditoria.log"
@@ -132,19 +132,18 @@ def analisar_diretorios():
             if deve_ignorar_arquivo(caminho_completo):
                 continue
 
+            tamanho = obter_tamanho (caminho_completo)
+
+            if tamanho is None:
+                continue
+
             quantidade_arquivos += 1
-
-            tamanho = obter_tamanho(
-                caminho_completo
-            )
-
             tamanho_total += tamanho
-          
-
-        #  CÓDIGO PARA ACHAR O MAIOR, (pensando na lógica do maior arquivo que o prof passou em aula, A quantidade processada não pode ser superior o total)
+            
+            #  CÓDIGO PARA ACHAR O MAIOR, (pensando na lógica do maior arquivo que o prof passou em aula, A quantidade processada não pode ser superior o total)
             if tamanho > maior_tamanho:
-                maior_tamanho = tamanho
-                maior_arquivo = caminho_completo
+                 maior_tamanho = tamanho
+                 maior_arquivo = caminho_completo
         # --------------------------------------
 
             # TODO: Confirm whether comparing the file name here
