@@ -134,12 +134,12 @@ def analisar_diretorios():
 
             tamanho = obter_tamanho (caminho_completo)
 
-            if tamanho is None:
+            if tamanho is None: # verifica se o programa descobriu o tamanho do arquivo antes de continuar
                 continue
 
             quantidade_arquivos += 1
             tamanho_total += tamanho
-            
+
             #  CÓDIGO PARA ACHAR O MAIOR, (pensando na lógica do maior arquivo que o prof passou em aula, A quantidade processada não pode ser superior o total)
             if tamanho > maior_tamanho:
                  maior_tamanho = tamanho
