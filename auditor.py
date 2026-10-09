@@ -214,7 +214,7 @@ def gerar_relatorio(
     with open(
         CAMINHO_RELATORIO,
         "w",
-        encoding="utf-8"
+        encoding="utf-8-sig"
     ) as arquivo:
 
         arquivo.write(
