@@ -46,7 +46,7 @@ def configurar_log():
         format="%(asctime)s - %(levelname)s - %(message)s"
     )
 
-    logging.info("Programa iniciado.")
+    logging.info("\nPrograma iniciado.")
 
 
 def deve_ignorar_arquivo(caminho):
