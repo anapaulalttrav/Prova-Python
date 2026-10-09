@@ -135,8 +135,7 @@ def analisar_diretorios():
 
             tamanho = obter_tamanho (caminho_completo)
 
-            if tamanho is None: # verifica se o programa descobriu o tamanho do arquivo antes de continuar
-                continue
+           
 
             quantidade_arquivos += 1
             tamanho_total += tamanho
