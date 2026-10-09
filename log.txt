@@ -1,0 +1,4 @@
+2026-10-09 20:25:10,414- INFO - Programa Iniciado!
+2026-10-09 20:25:10,415- INFO - Tentando abrir o arquivo
+2026-10-09 20:25:10,415- ERROR - Arquivo não encontrado!
+2026-10-09 20:25:10,415- INFO - Programa Encerrado

@@ -5,7 +5,7 @@ import logging
 NOME_RELATORIO = "relatorio.txt"
 NOME_LOG = "auditoria.log"
 
-PASTA_PROJETO = os.getcwd()
+PASTA_PROJETO = os.path.dirname(os.path.abspath(__file__))
 
 # TODO: verificar se este caminho ainda corresponde à estrutura atual.
 PASTA_LOGS = os.path.join(PASTA_PROJETO, "logs") #logs é a pasta que vai armazenar os logs, que foi mencionado em aula
@@ -39,6 +39,7 @@ def configurar_log():
     """
     Configura o arquivo utilizado para registrar a execução.
     """
+    print(f"DEBUG: Criando log em {CAMINHO_LOG}") #onde está sendo salvo
 
     logging.basicConfig(
         filename=CAMINHO_LOG,
@@ -210,7 +211,7 @@ def gerar_relatorio(
     with open(
         CAMINHO_RELATORIO,
         "w",
-        encoding="utf-8"
+        encoding="utf-8-sig"
     ) as arquivo:
 
         arquivo.write(
