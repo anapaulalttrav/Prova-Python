@@ -1,7 +1,7 @@
 ﻿RELATÓRIO DE AUDITORIA
 ==================================================
-Quantidade de arquivos: 199
-Tamanho total: 1689786 bytes
+Quantidade de arquivos: 207
+Tamanho total: 1702657 bytes
 Maior arquivo: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias\exemplos\base_referencia.dat
 Tamanho do maior arquivo: 819200 bytes
 ==================================================

@@ -135,8 +135,7 @@ def analisar_diretorios():
 
             tamanho = obter_tamanho (caminho_completo)
 
-           
-
+        
             quantidade_arquivos += 1
             tamanho_total += tamanho
 
@@ -146,15 +145,10 @@ def analisar_diretorios():
                  maior_arquivo = caminho_completo
         # --------------------------------------
 
-            # TODO: Confirm whether comparing the file name here
-            # still represents the intended rule.
-            if len(nome_arquivo) > maior_tamanho:
-
-                maior_tamanho = tamanho
-                maior_arquivo = nome_arquivo
-
-        # Solução temporária adicionada durante um teste.
-        # Verificar se ainda é necessária.
+        #retiramos o LEN
+        #Comparar len(nome_arquivo) (tamanho da string) 
+        # com maior_tamanho (bytes) é um erro lógico grave que sobrescrevia o 
+        # caminho correto do maior arquivo, fazendo o verificador falhar
         
 
     logging.info(
