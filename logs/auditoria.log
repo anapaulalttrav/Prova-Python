@@ -1787,3 +1787,267 @@ Programa iniciado.
 2026-10-09 21:05:00,347 - INFO - Gerando relatório.
 2026-10-09 21:05:00,347 - INFO - Relatório gerado.
 2026-10-09 21:05:00,347 - INFO - Programa finalizado com sucesso.
+2026-10-09 21:13:50,028 - INFO - 
+Programa iniciado.
+2026-10-09 21:13:50,028 - INFO - Iniciando análise dos diretórios.
+2026-10-09 21:13:50,028 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python
+2026-10-09 21:13:50,029 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git
+2026-10-09 21:13:50,029 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\hooks
+2026-10-09 21:13:50,029 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\info
+2026-10-09 21:13:50,029 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\logs
+2026-10-09 21:13:50,029 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\logs\refs
+2026-10-09 21:13:50,029 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\logs\refs\heads
+2026-10-09 21:13:50,029 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\logs\refs\remotes
+2026-10-09 21:13:50,029 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\logs\refs\remotes\origin
+2026-10-09 21:13:50,030 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects
+2026-10-09 21:13:50,030 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\00
+2026-10-09 21:13:50,030 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\01
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\02
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\05
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\06
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\08
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\0d
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\11
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\14
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\15
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\1a
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\1b
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\1c
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\1d
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\21
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\22
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\23
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\24
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\25
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\2e
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\2f
+2026-10-09 21:13:50,031 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\30
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\32
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\38
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\3a
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\3f
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\40
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\41
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\42
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\43
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\44
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\45
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\47
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\48
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\49
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\4b
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\4d
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\4f
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\50
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\51
+2026-10-09 21:13:50,032 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\54
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\55
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\5a
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\5c
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\60
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\63
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\68
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\69
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\6c
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\70
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\71
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\73
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\77
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\79
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\7a
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\7b
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\7f
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\82
+2026-10-09 21:13:50,033 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\83
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\85
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\88
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\8b
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\8e
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\8f
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\90
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\93
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\94
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\9b
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\9c
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\9d
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\a0
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\a5
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\ab
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\ad
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\b0
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\b2
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\b6
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\b7
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\b8
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\c1
+2026-10-09 21:13:50,034 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\c3
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\c5
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\c8
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\c9
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\cc
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\ce
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\d0
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\d1
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\d2
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\d8
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\d9
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\da
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\df
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\e0
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\e6
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\e7
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\e8
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\e9
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\ea
+2026-10-09 21:13:50,035 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\eb
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\ec
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\ed
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\ee
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\ef
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\f0
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\f1
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\f2
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\f3
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\f4
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\f5
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\f8
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\fa
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\fc
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\fd
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\fe
+2026-10-09 21:13:50,036 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\info
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\objects\pack
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\refs
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\refs\heads
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\refs\remotes
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\refs\remotes\origin
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\.git\refs\tags
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\config
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers\relatorios
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias\exemplos
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\logs
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models\historico
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp\processados
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\tests
+2026-10-09 21:13:50,037 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\utils
+2026-10-09 21:13:50,038 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\__pycache__
+2026-10-09 21:13:50,038 - INFO - Análise dos diretórios finalizada.
+2026-10-09 21:13:50,038 - INFO - Validações internas concluídas.
+2026-10-09 21:13:50,038 - INFO - Gerando relatório.
+2026-10-09 21:13:50,038 - INFO - Relatório gerado.
+2026-10-09 21:13:50,038 - INFO - Programa finalizado com sucesso.
+2026-10-09 21:40:48,893 - INFO - 
+Programa iniciado.
+2026-10-09 21:40:48,893 - INFO - Iniciando análise dos diretórios.
+2026-10-09 21:40:48,893 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python
+2026-10-09 21:40:48,893 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\config
+2026-10-09 21:40:48,893 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers
+2026-10-09 21:40:48,893 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers\relatorios
+2026-10-09 21:40:48,893 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs
+2026-10-09 21:40:48,893 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias
+2026-10-09 21:40:48,893 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias\exemplos
+2026-10-09 21:40:48,894 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\logs
+2026-10-09 21:40:48,894 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models
+2026-10-09 21:40:48,894 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models\historico
+2026-10-09 21:40:48,894 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp
+2026-10-09 21:40:48,894 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp\processados
+2026-10-09 21:40:48,894 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\tests
+2026-10-09 21:40:48,894 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\utils
+2026-10-09 21:40:48,894 - INFO - Análise dos diretórios finalizada.
+2026-10-09 21:40:48,894 - INFO - Validações internas concluídas.
+2026-10-09 21:40:48,894 - INFO - Gerando relatório.
+2026-10-09 21:40:48,894 - INFO - Relatório gerado.
+2026-10-09 21:40:48,894 - INFO - Programa finalizado com sucesso.
+2026-10-09 21:40:51,193 - INFO - 
+Programa iniciado.
+2026-10-09 21:40:51,193 - INFO - Iniciando análise dos diretórios.
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\config
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers\relatorios
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias\exemplos
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\logs
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models\historico
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp
+2026-10-09 21:40:51,194 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp\processados
+2026-10-09 21:40:51,195 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\tests
+2026-10-09 21:40:51,195 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\utils
+2026-10-09 21:40:51,195 - INFO - Análise dos diretórios finalizada.
+2026-10-09 21:40:51,195 - INFO - Validações internas concluídas.
+2026-10-09 21:40:51,195 - INFO - Gerando relatório.
+2026-10-09 21:40:51,195 - INFO - Relatório gerado.
+2026-10-09 21:40:51,195 - INFO - Programa finalizado com sucesso.
+2026-10-09 21:50:57,567 - INFO - 
+Programa iniciado.
+2026-10-09 21:50:57,567 - INFO - Iniciando análise dos diretórios.
+2026-10-09 21:50:57,567 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python
+2026-10-09 21:50:57,567 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\config
+2026-10-09 21:50:57,567 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers
+2026-10-09 21:50:57,567 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers\relatorios
+2026-10-09 21:50:57,567 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs
+2026-10-09 21:50:57,568 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias
+2026-10-09 21:50:57,568 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias\exemplos
+2026-10-09 21:50:57,568 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\logs
+2026-10-09 21:50:57,568 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models
+2026-10-09 21:50:57,568 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models\historico
+2026-10-09 21:50:57,568 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp
+2026-10-09 21:50:57,568 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp\processados
+2026-10-09 21:50:57,568 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\tests
+2026-10-09 21:50:57,568 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\utils
+2026-10-09 21:50:57,568 - INFO - Análise dos diretórios finalizada.
+2026-10-09 21:50:57,568 - INFO - Validações internas concluídas.
+2026-10-09 21:50:57,568 - INFO - Gerando relatório.
+2026-10-09 21:50:57,568 - INFO - Relatório gerado.
+2026-10-09 21:50:57,568 - INFO - Programa finalizado com sucesso.
+2026-10-09 21:51:01,875 - INFO - 
+Programa iniciado.
+2026-10-09 21:51:01,875 - INFO - Iniciando análise dos diretórios.
+2026-10-09 21:51:01,875 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python
+2026-10-09 21:51:01,875 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\config
+2026-10-09 21:51:01,875 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers
+2026-10-09 21:51:01,875 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers\relatorios
+2026-10-09 21:51:01,875 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs
+2026-10-09 21:51:01,875 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias
+2026-10-09 21:51:01,875 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias\exemplos
+2026-10-09 21:51:01,876 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\logs
+2026-10-09 21:51:01,876 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models
+2026-10-09 21:51:01,876 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models\historico
+2026-10-09 21:51:01,876 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp
+2026-10-09 21:51:01,876 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp\processados
+2026-10-09 21:51:01,876 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\tests
+2026-10-09 21:51:01,876 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\utils
+2026-10-09 21:51:01,876 - INFO - Análise dos diretórios finalizada.
+2026-10-09 21:51:01,876 - INFO - Validações internas concluídas.
+2026-10-09 21:51:01,876 - INFO - Gerando relatório.
+2026-10-09 21:51:01,876 - INFO - Relatório gerado.
+2026-10-09 21:51:01,876 - INFO - Programa finalizado com sucesso.
+2026-10-09 21:51:09,327 - INFO - 
+Programa iniciado.
+2026-10-09 21:51:09,327 - INFO - Iniciando análise dos diretórios.
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\config
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers\relatorios
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias\exemplos
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\logs
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models\historico
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp\processados
+2026-10-09 21:51:09,328 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\tests
+2026-10-09 21:51:09,329 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\utils
+2026-10-09 21:51:09,329 - INFO - Análise dos diretórios finalizada.
+2026-10-09 21:51:09,329 - INFO - Validações internas concluídas.
+2026-10-09 21:51:09,329 - INFO - Gerando relatório.
+2026-10-09 21:51:09,329 - INFO - Relatório gerado.
+2026-10-09 21:51:09,329 - INFO - Programa finalizado com sucesso.

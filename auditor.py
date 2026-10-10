@@ -67,7 +67,6 @@ def deve_ignorar_arquivo(caminho):
 
     return False
 
-
 def obter_tamanho(caminho):
     """
     Retorna o tamanho, em bytes, do arquivo informado.
@@ -119,6 +118,11 @@ def analisar_diretorios():
     for pasta_atual, subpastas, arquivos in os.walk(
         PASTA_PROJETO
     ):
+        subpastas[:] = [
+            s for s in subpastas 
+            if s not in ['.git', '__pycache__', '.vscode', 'node_modules']
+            and not s.startswith('.')
+        ]
 
         logging.info(
             f"Analisando diretório: {pasta_atual}"
