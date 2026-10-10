@@ -44,7 +44,8 @@ def configurar_log():
     logging.basicConfig(
         filename=CAMINHO_LOG,
         level=logging.INFO,
-        format="%(asctime)s - %(levelname)s - %(message)s"
+        format="%(asctime)s - %(levelname)s - %(message)s",
+        encoding="utf-8-sig"
     )
 
     logging.info("\nPrograma iniciado.")
