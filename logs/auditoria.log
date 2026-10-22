@@ -2051,3 +2051,25 @@ Programa iniciado.
 2026-10-09 21:51:09,329 - INFO - Gerando relatório.
 2026-10-09 21:51:09,329 - INFO - Relatório gerado.
 2026-10-09 21:51:09,329 - INFO - Programa finalizado com sucesso.
+2026-10-22 19:52:00,944 - INFO - 
+Programa iniciado.
+2026-10-22 19:52:00,944 - INFO - Iniciando análise dos diretórios.
+2026-10-22 19:52:00,944 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\config
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\controllers\relatorios
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\docs\referencias\exemplos
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\logs
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\models\historico
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\temp\processados
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\tests
+2026-10-22 19:52:00,945 - INFO - Analisando diretório: c:\Users\User\Documents\ProvaPython\Prova Python\utils
+2026-10-22 19:52:00,945 - INFO - Análise dos diretórios finalizada.
+2026-10-22 19:52:00,945 - INFO - Validações internas concluídas.
+2026-10-22 19:52:00,945 - INFO - Gerando relatório.
+2026-10-22 19:52:00,946 - INFO - Relatório gerado.
+2026-10-22 19:52:00,946 - INFO - Programa finalizado com sucesso.
