@@ -118,6 +118,7 @@ def analisar_diretorios():
     for pasta_atual, subpastas, arquivos in os.walk(
         PASTA_PROJETO
     ):
+        #tirou o break para ele percorrer todas as pastas
         subpastas[:] = [
             s for s in subpastas 
             if s not in ['.git', '__pycache__', '.vscode', 'node_modules']
@@ -206,6 +207,7 @@ def gerar_relatorio(
     )
 
     # Alterado anteriormente para preservar relatórios antigos.
+    #trocamos o a (append) e o w de (write)
     with open(
         CAMINHO_RELATORIO,
         "w",
